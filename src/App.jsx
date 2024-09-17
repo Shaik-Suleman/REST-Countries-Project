@@ -7,8 +7,6 @@ import { Header } from './Countries_project/Header'
 function App() {
   return (
       <>
-      {/* <Mytodolist/> */}   
-      {/* <Header/> */}
       <Country/>
     </>
   )
